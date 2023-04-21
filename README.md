@@ -4,7 +4,7 @@
 
 Welcome to MyAPI! Here you'll find all the documentation you need to get up and running with the MyAPI API.
 
-{% @figma/embed fileId="3Jf8BayrqDTe8vgaXJrkAY" nodeId="0:1" url="https://www.figma.com/file/3Jf8BayrqDTe8vgaXJrkAY/tappi?node-id=0:1&t=6Y6uHimKsEyPLc11-1" %}
+{% embed url="https://www.figma.com/proto/3Jf8BayrqDTe8vgaXJrkAY/tappi?fuid=1074075213499738882&node-id=0-1" %}
 
 ## Want to jump right in?
 
