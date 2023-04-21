@@ -4,6 +4,32 @@
 
 Welcome to MyAPI! Here you'll find all the documentation you need to get up and running with the MyAPI API.
 
+<details>
+
+<summary>Why open source cannot compete?</summary>
+
+sdafsd
+
+af
+
+das
+
+fasd
+
+f
+
+sdaf
+
+sdaf
+
+asd
+
+fdsa
+
+f
+
+</details>
+
 <img src=".gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
 
 ## Want to jump right in?
